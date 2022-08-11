@@ -1,0 +1,1140 @@
+fileFormatVersion: 2
+guid: cd8f67a27ad9ac848830ee68d1af8e51
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8641017002676476957
+    second: Drop_cayendo_0
+  - first:
+      213: -5140516021433344993
+    second: Drop_cayendo_1
+  - first:
+      213: -6155514648238446393
+    second: Drop_cayendo_2
+  - first:
+      213: -8010387247556324161
+    second: Drop_cayendo_3
+  - first:
+      213: 2625067963979446566
+    second: Drop_cayendo_4
+  - first:
+      213: 651990947571763334
+    second: Drop_cayendo_5
+  - first:
+      213: 5058832189997269178
+    second: Drop_cayendo_6
+  - first:
+      213: 841528820764062119
+    second: Drop_cayendo_7
+  - first:
+      213: 4077533738664744740
+    second: Drop_cayendo_8
+  - first:
+      213: -6595535815403019838
+    second: Drop_cayendo_9
+  - first:
+      213: 3983377823089443872
+    second: Drop_cayendo_10
+  - first:
+      213: -4764167528498916614
+    second: Drop_cayendo_11
+  - first:
+      213: -1728970168733262306
+    second: Drop_cayendo_12
+  - first:
+      213: 6060820554440576607
+    second: Drop_cayendo_13
+  - first:
+      213: -6046596981434905764
+    second: Drop_cayendo_14
+  - first:
+      213: -2688509286869266084
+    second: Drop_cayendo_15
+  - first:
+      213: 4779443106410320738
+    second: Drop_cayendo_16
+  - first:
+      213: -2603485027999849119
+    second: Drop_cayendo_17
+  - first:
+      213: 1682470470992163803
+    second: Drop_cayendo_18
+  - first:
+      213: 6913629845054152356
+    second: Drop_cayendo_19
+  - first:
+      213: -1745746349789618936
+    second: Drop_cayendo_20
+  - first:
+      213: -6678313008943144977
+    second: Drop_cayendo_21
+  - first:
+      213: -2350398526919579580
+    second: Drop_cayendo_22
+  - first:
+      213: 5494846194833219260
+    second: Drop_cayendo_23
+  - first:
+      213: 191247082707997220
+    second: Drop_cayendo_24
+  - first:
+      213: 4477833183451987526
+    second: Drop_cayendo_25
+  - first:
+      213: 5555402014758509265
+    second: Drop_cayendo_26
+  - first:
+      213: -8957055707241697678
+    second: Drop_cayendo_27
+  - first:
+      213: -1114969497759653810
+    second: Drop_cayendo_28
+  - first:
+      213: -8920420367091298210
+    second: Drop_cayendo_29
+  - first:
+      213: 8420678623696374824
+    second: Drop_cayendo_30
+  - first:
+      213: -5663866971442676752
+    second: Drop_cayendo_31
+  - first:
+      213: 421315736577888906
+    second: Drop_cayendo_32
+  - first:
+      213: 2271793566988955526
+    second: Drop_cayendo_33
+  - first:
+      213: 1395060968030061585
+    second: Drop_cayendo_34
+  - first:
+      213: -5592905743699582504
+    second: Drop_cayendo_35
+  - first:
+      213: 2012255106068445313
+    second: Drop_cayendo_36
+  - first:
+      213: -5761331581665037601
+    second: Drop_cayendo_37
+  - first:
+      213: -5700161757069286128
+    second: Drop_cayendo_38
+  - first:
+      213: 4908139768688421895
+    second: Drop_cayendo_39
+  - first:
+      213: 5743550897202315311
+    second: Drop_cayendo_40
+  - first:
+      213: 2564755935478350469
+    second: Drop_cayendo_41
+  - first:
+      213: 8148179910794474641
+    second: Drop_cayendo_42
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Drop_cayendo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3741
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c54ae8e2f0be770800000000000000
+      internalID: 8641017002676476957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 3741
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cd2440ae739a8b0800000000000000
+      internalID: -5140516021433344993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_2
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 3741
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8a80e6a08339aa0800000000000000
+      internalID: -6155514648238446393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_3
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 3741
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4161c3d3365d090800000000000000
+      internalID: -8010387247556324161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3386
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629b040b76d1e6420800000000000000
+      internalID: 2625067963979446566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_5
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 3386
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68809caff465c0900800000000000000
+      internalID: 651990947571763334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_6
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 3386
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0491fe215943640800000000000000
+      internalID: 5058832189997269178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_7
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 3386
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a135edf006bdab00800000000000000
+      internalID: 841528820764062119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3031
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42758c4e45f469830800000000000000
+      internalID: 4077533738664744740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_9
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 3031
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1698bde13f774a0800000000000000
+      internalID: -6595535815403019838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_10
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 3031
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0244a67760dc74730800000000000000
+      internalID: 3983377823089443872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_11
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 3031
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af21f5ddfd642edb0800000000000000
+      internalID: -4764167528498916614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2676
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e1861cac67108e0800000000000000
+      internalID: -1728970168733262306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_13
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2676
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e01d2ce2c5c1450800000000000000
+      internalID: 6060820554440576607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_14
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2676
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b8f95e41c261ca0800000000000000
+      internalID: -6046596981434905764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_15
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 2676
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5191d44c0f70bad0800000000000000
+      internalID: -2688509286869266084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2321
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263d6c5ce2ef35240800000000000000
+      internalID: 4779443106410320738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_17
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2321
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165650039209edbd0800000000000000
+      internalID: -2603485027999849119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_18
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2321
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd37290baf5595710800000000000000
+      internalID: 1682470470992163803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_19
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 2321
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aeddfec6b522ff50800000000000000
+      internalID: 6913629845054152356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1966
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ddad8b1fcd5c7e0800000000000000
+      internalID: -1745746349789618936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_21
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1966
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefd21b93bdd153a0800000000000000
+      internalID: -6678313008943144977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_22
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1966
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4486b522ef4b16fd0800000000000000
+      internalID: -2350398526919579580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_23
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1966
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbed072508d914c40800000000000000
+      internalID: 5494846194833219260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1611
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422d32d553277a200800000000000000
+      internalID: 191247082707997220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_25
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1611
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ebc174e85742e30800000000000000
+      internalID: 4477833183451987526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_26
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1611
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da9b2ad2b0c81d40800000000000000
+      internalID: 5555402014758509265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_27
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1611
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e29707a4522b380800000000000000
+      internalID: -8957055707241697678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1256
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40e3ae2625d680f0800000000000000
+      internalID: -1114969497759653810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_29
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1256
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e501d5440fc443480800000000000000
+      internalID: -8920420367091298210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_30
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1256
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cc525f7924cd470800000000000000
+      internalID: 8420678623696374824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_31
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1256
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb77187ff6e561b0800000000000000
+      internalID: -5663866971442676752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 901
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82d1012e60d8d500800000000000000
+      internalID: 421315736577888906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_33
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 901
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fe4637638078f10800000000000000
+      internalID: 2271793566988955526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_34
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 901
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114c17f1f804c5310800000000000000
+      internalID: 1395060968030061585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_35
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 901
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d16b8ccbd10262b0800000000000000
+      internalID: -5592905743699582504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188fcaa8b57fceb10800000000000000
+      internalID: 2012255106068445313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_37
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 546
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2bd998373ab00b0800000000000000
+      internalID: -5761331581665037601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_38
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 546
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0156e9b2515f4e0b0800000000000000
+      internalID: -5700161757069286128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_39
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 546
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c24ac7d173d1440800000000000000
+      internalID: 4908139768688421895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20ce114c1135bf40800000000000000
+      internalID: 5743550897202315311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_41
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 191
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58203c54fe7d79320800000000000000
+      internalID: 2564755935478350469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_42
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 191
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194f0ec3576241170800000000000000
+      internalID: 8148179910794474641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: 48798a3ab3df1fe4596b57a271522b0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2123962058203779173
+    second: Sushi_Jump_1HW_0
+  - first:
+      213: -7990776143171741256
+    second: Sushi_Jump_1HW_1
+  - first:
+      213: -3587981737120608006
+    second: Sushi_Jump_1HW_2
+  - first:
+      213: 1385312493333785028
+    second: Sushi_Jump_1HW_3
+  - first:
+      213: -3117042277582041899
+    second: Sushi_Jump_1HW_4
+  - first:
+      213: 2875765151908754986
+    second: Sushi_Jump_1HW_5
+  - first:
+      213: 7815514171656731611
+    second: Sushi_Jump_1HW_6
+  - first:
+      213: 6772694948987495208
+    second: Sushi_Jump_1HW_7
+  - first:
+      213: 6825254904847589437
+    second: Sushi_Jump_1HW_8
+  - first:
+      213: 2741396983169254640
+    second: Sushi_Jump_1HW_9
+  - first:
+      213: -1192646405592370227
+    second: Sushi_Jump_1HW_10
+  - first:
+      213: -2366791939702206398
+    second: Sushi_Jump_1HW_11
+  - first:
+      213: -1480514862322242749
+    second: Sushi_Jump_1HW_12
+  - first:
+      213: -8439235216222879957
+    second: Sushi_Jump_1HW_13
+  - first:
+      213: -6868878110907130558
+    second: Sushi_Jump_1HW_14
+  - first:
+      213: 6145906157561256028
+    second: Sushi_Jump_1HW_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sushi_Jump_1HW_0
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3141
+        width: 714
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f2b54e2cb2682e0800000000000000
+      internalID: -2123962058203779173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_Jump_1HW_1
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 3141
+        width: 793
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9159a4f6f0b1190800000000000000
+      internalID: -7990776143171741256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_Jump_1HW_2
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 3139
+        width: 872
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0565abe9de43ec0800000000000000
+      internalID: -3587981737120608006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_Jump_1HW_3
+      rect:
+        serializedVersion: 2
+        x: 2875
+        y: 3139
+        width: 780
+        height: 746
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9221c7f5e993310800000000000000
+      internalID: 1385312493333785028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_Jump_1HW_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2253
+        width: 688
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc09d6309a0eb4d0800000000000000
+      internalID: -3117042277582041899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_Jump_1HW_5
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 2253
+        width: 596
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26f7f05b25c8e720800000000000000
+      internalID: 2875765151908754986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_Jump_1HW_6
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 2257
+        width: 664
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb71a21bb8467c60800000000000000
+      internalID: 7815514171656731611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_Jump_1HW_7
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 2259
+        width: 736
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8236b7e3c227dfd50800000000000000
+      internalID: 6772694948987495208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_Jump_1HW_8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1375
+        width: 804
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30eee89c2d28be50800000000000000
+      internalID: 6825254904847589437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_Jump_1HW_9
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1375
+        width: 806
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4812a18066b0620800000000000000
+      internalID: 2741396983169254640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_Jump_1HW_10
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1375
+        width: 806
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3350cb96ed27fe0800000000000000
+      internalID: -1192646405592370227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_Jump_1HW_11
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 1375
+        width: 806
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240dac84547772fd0800000000000000
+      internalID: -2366791939702206398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_Jump_1HW_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 491
+        width: 804
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ba89aa397247be0800000000000000
+      internalID: -1480514862322242749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_Jump_1HW_13
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 491
+        width: 806
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f7119a840d1ea80800000000000000
+      internalID: -8439235216222879957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_Jump_1HW_14
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 491
+        width: 806
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d9ce140c7dca0a0800000000000000
+      internalID: -6868878110907130558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_Jump_1HW_15
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 491
+        width: 806
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5813508615aa4550800000000000000
+      internalID: 6145906157561256028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: 17e14ceb46560494e980f365e0623713
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5383696362367088413
+    second: Pancho_Idle_0
+  - first:
+      213: -4419123155602335029
+    second: Pancho_Idle_1
+  - first:
+      213: -8663408170138909431
+    second: Pancho_Idle_2
+  - first:
+      213: 1471879561844289691
+    second: Pancho_Idle_3
+  - first:
+      213: 4319433353684925711
+    second: Pancho_Idle_4
+  - first:
+      213: 253677109604471198
+    second: Pancho_Idle_5
+  - first:
+      213: 5907883491075319833
+    second: Pancho_Idle_6
+  - first:
+      213: 176966868663061604
+    second: Pancho_Idle_7
+  - first:
+      213: 1610934959927647990
+    second: Pancho_Idle_8
+  - first:
+      213: 2855093926255889438
+    second: Pancho_Idle_9
+  - first:
+      213: -7412183608074980712
+    second: Pancho_Idle_10
+  - first:
+      213: 1870526815166107229
+    second: Pancho_Idle_11
+  - first:
+      213: -6666347035302360491
+    second: Pancho_Idle_12
+  - first:
+      213: -4845331680963539826
+    second: Pancho_Idle_13
+  - first:
+      213: -5353104030128117093
+    second: Pancho_Idle_14
+  - first:
+      213: -1464232487303926246
+    second: Pancho_Idle_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pancho_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 3157
+        width: 636
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17f379415bb6ba40800000000000000
+      internalID: 5383696362367088413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 3157
+        width: 638
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca9e9b47ee1ca2c0800000000000000
+      internalID: -4419123155602335029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 3157
+        width: 638
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90547a28b2465c780800000000000000
+      internalID: -8663408170138909431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 3157
+        width: 642
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90f2e3c9aa2d6410800000000000000
+      internalID: 1471879561844289691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 3157
+        width: 642
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d3d55ffb5b1fb30800000000000000
+      internalID: 4319433353684925711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2291
+        width: 646
+        height: 824
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e915f95bcfd358300800000000000000
+      internalID: 253677109604471198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 2289
+        width: 652
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91860fbdbb40df150800000000000000
+      internalID: 5907883491075319833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 2289
+        width: 656
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cccafed66b47200800000000000000
+      internalID: 176966868663061604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 2289
+        width: 652
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fedeba9fc03b5610800000000000000
+      internalID: 1610934959927647990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 2823
+        y: 2291
+        width: 648
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c8bda8cc45f9720800000000000000
+      internalID: 2855093926255889438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1423
+        width: 644
+        height: 826
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892b7b6a742a22990800000000000000
+      internalID: -7412183608074980712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1421
+        width: 644
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e81d85a3275f910800000000000000
+      internalID: 1870526815166107229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 1423
+        width: 640
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a0353f0b06c73a0800000000000000
+      internalID: -6666347035302360491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 1421
+        width: 640
+        height: 836
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cc831028ce1ccb0800000000000000
+      internalID: -4845331680963539826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 1421
+        width: 638
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a608e1f34f5b5b0800000000000000
+      internalID: -5353104030128117093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 557
+        width: 636
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ea9a58f400eabe0800000000000000
+      internalID: -1464232487303926246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

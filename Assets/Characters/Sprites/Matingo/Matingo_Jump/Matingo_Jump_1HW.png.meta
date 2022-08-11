@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: e53e7ba63951bd543bad7fffb6f53271
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 285689890718694032
+    second: Matingo_Jump_1HW_0
+  - first:
+      213: -7127731375509678820
+    second: Matingo_Jump_1HW_1
+  - first:
+      213: -3913557223846636926
+    second: Matingo_Jump_1HW_2
+  - first:
+      213: -5893957556830241301
+    second: Matingo_Jump_1HW_3
+  - first:
+      213: 1186550292290860428
+    second: Matingo_Jump_1HW_4
+  - first:
+      213: 2642617966320295753
+    second: Matingo_Jump_1HW_5
+  - first:
+      213: -5910902162780284074
+    second: Matingo_Jump_1HW_6
+  - first:
+      213: 5420260810218931339
+    second: Matingo_Jump_1HW_7
+  - first:
+      213: 4143395762666604274
+    second: Matingo_Jump_1HW_8
+  - first:
+      213: 1376262274730649235
+    second: Matingo_Jump_1HW_9
+  - first:
+      213: -5535964747163344827
+    second: Matingo_Jump_1HW_10
+  - first:
+      213: 48438823018445185
+    second: Matingo_Jump_1HW_11
+  - first:
+      213: 8390473783181449561
+    second: Matingo_Jump_1HW_12
+  - first:
+      213: 7433437845016558771
+    second: Matingo_Jump_1HW_13
+  - first:
+      213: 8976355865215500174
+    second: Matingo_Jump_1HW_14
+  - first:
+      213: 3051676717001236506
+    second: Matingo_Jump_1HW_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Matingo_Jump_1HW_0
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 7098
+        width: 884
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a35342179f6f300800000000000000
+      internalID: 285689890718694032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matingo_Jump_1HW_1
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 7098
+        width: 980
+        height: 956
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15d65c0416351d90800000000000000
+      internalID: -7127731375509678820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matingo_Jump_1HW_2
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 7098
+        width: 1076
+        height: 908
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2821578907040b9c0800000000000000
+      internalID: -3913557223846636926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matingo_Jump_1HW_3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 5930
+        width: 968
+        height: 967
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed77ef54d4743ea0800000000000000
+      internalID: -5893957556830241301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matingo_Jump_1HW_4
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 5930
+        width: 856
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85f1284439777010800000000000000
+      internalID: 1186550292290860428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matingo_Jump_1HW_5
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 5930
+        width: 736
+        height: 1076
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f16970a077ca420800000000000000
+      internalID: 2642617966320295753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matingo_Jump_1HW_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 4762
+        width: 788
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b946ddcc148fda0800000000000000
+      internalID: -5910902162780284074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matingo_Jump_1HW_7
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 4766
+        width: 832
+        height: 1028
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8402173d72a83b40800000000000000
+      internalID: 5420260810218931339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matingo_Jump_1HW_8
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 4766
+        width: 884
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f60a955e7c408930800000000000000
+      internalID: 4143395762666604274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matingo_Jump_1HW_9
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 3598
+        width: 884
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39667134f37791310800000000000000
+      internalID: 1376262274730649235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matingo_Jump_1HW_10
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 3598
+        width: 883
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5406e3ca46d4c23b0800000000000000
+      internalID: -5535964747163344827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matingo_Jump_1HW_11
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 3598
+        width: 884
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1893a575ad61ca000800000000000000
+      internalID: 48438823018445185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matingo_Jump_1HW_12
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2430
+        width: 884
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95912cf7373f07470800000000000000
+      internalID: 8390473783181449561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matingo_Jump_1HW_13
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 2430
+        width: 883
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc38240650e82760800000000000000
+      internalID: 7433437845016558771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matingo_Jump_1HW_14
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 2430
+        width: 884
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ff9a3c91c629c70800000000000000
+      internalID: 8976355865215500174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matingo_Jump_1HW_15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1262
+        width: 884
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10603e3ecbb95a20800000000000000
+      internalID: 3051676717001236506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

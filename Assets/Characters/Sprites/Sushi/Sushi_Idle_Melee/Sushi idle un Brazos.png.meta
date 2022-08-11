@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: 0f3cbc4bf88e92146a77112b0e5d1460
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4126304506797411242
+    second: Sushi idle un Brazos_0
+  - first:
+      213: 225549329644306785
+    second: Sushi idle un Brazos_1
+  - first:
+      213: -1354015977848755788
+    second: Sushi idle un Brazos_2
+  - first:
+      213: 266098653390428626
+    second: Sushi idle un Brazos_3
+  - first:
+      213: 4826317605259017119
+    second: Sushi idle un Brazos_4
+  - first:
+      213: -3711960040705885003
+    second: Sushi idle un Brazos_5
+  - first:
+      213: -3796237863520483667
+    second: Sushi idle un Brazos_6
+  - first:
+      213: -6805175537522375036
+    second: Sushi idle un Brazos_7
+  - first:
+      213: 248275638478898758
+    second: Sushi idle un Brazos_8
+  - first:
+      213: -654082041273444660
+    second: Sushi idle un Brazos_9
+  - first:
+      213: -3432895162739838710
+    second: Sushi idle un Brazos_10
+  - first:
+      213: 22690971220034761
+    second: Sushi idle un Brazos_11
+  - first:
+      213: 6915194376970562945
+    second: Sushi idle un Brazos_12
+  - first:
+      213: 3142292665946896310
+    second: Sushi idle un Brazos_13
+  - first:
+      213: 3417284256815235140
+    second: Sushi idle un Brazos_14
+  - first:
+      213: -4783415135061289307
+    second: Sushi idle un Brazos_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sushi idle un Brazos_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 3205
+        width: 738
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6543f35c9eb6cb6c0800000000000000
+      internalID: -4126304506797411242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi idle un Brazos_1
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 3205
+        width: 742
+        height: 786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161c6c89bef412300800000000000000
+      internalID: 225549329644306785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi idle un Brazos_2
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 3205
+        width: 744
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b92f1c54a1953de0800000000000000
+      internalID: -1354015977848755788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi idle un Brazos_3
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 3205
+        width: 746
+        height: 774
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9db8eb05f51b300800000000000000
+      internalID: 266098653390428626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi idle un Brazos_4
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 3205
+        width: 748
+        height: 766
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b7da28a468af240800000000000000
+      internalID: 4826317605259017119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi idle un Brazos_5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2387
+        width: 748
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcf74182087c7cc0800000000000000
+      internalID: -3711960040705885003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi idle un Brazos_6
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 2387
+        width: 750
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da649f5c6cd015bc0800000000000000
+      internalID: -3796237863520483667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi idle un Brazos_7
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 2387
+        width: 754
+        height: 752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4860dcb67e82f81a0800000000000000
+      internalID: -6805175537522375036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi idle un Brazos_8
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 2387
+        width: 752
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6460be5b06d027300800000000000000
+      internalID: 248275638478898758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi idle un Brazos_9
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 2387
+        width: 750
+        height: 758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc61fe359db3ce6f0800000000000000
+      internalID: -654082041273444660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi idle un Brazos_10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1567
+        width: 748
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a013cb9a908eb50d0800000000000000
+      internalID: -3432895162739838710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi idle un Brazos_11
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1567
+        width: 748
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4cd2f615d905000800000000000000
+      internalID: 22690971220034761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi idle un Brazos_12
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 1567
+        width: 746
+        height: 772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18deb18c5a4b7ff50800000000000000
+      internalID: 6915194376970562945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi idle un Brazos_13
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 1567
+        width: 744
+        height: 778
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b77416f78aab9b20800000000000000
+      internalID: 3142292665946896310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi idle un Brazos_14
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 1567
+        width: 744
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440c1001de1ac6f20800000000000000
+      internalID: 3417284256815235140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi idle un Brazos_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 749
+        width: 740
+        height: 786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6d17d3745ed9db0800000000000000
+      internalID: -4783415135061289307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

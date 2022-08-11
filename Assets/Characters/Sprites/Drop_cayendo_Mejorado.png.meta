@@ -1,0 +1,1140 @@
+fileFormatVersion: 2
+guid: 36369f6d7c734ba4682e20e7b9ca695d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4736984283127077161
+    second: Drop_cayendo_Mejorado_0
+  - first:
+      213: 6803334486666056360
+    second: Drop_cayendo_Mejorado_1
+  - first:
+      213: 7009352751521524886
+    second: Drop_cayendo_Mejorado_2
+  - first:
+      213: -3245875639945670979
+    second: Drop_cayendo_Mejorado_3
+  - first:
+      213: -8110094055472283978
+    second: Drop_cayendo_Mejorado_4
+  - first:
+      213: 5680259158935320156
+    second: Drop_cayendo_Mejorado_5
+  - first:
+      213: 6891516148196187973
+    second: Drop_cayendo_Mejorado_6
+  - first:
+      213: 8932822429721126755
+    second: Drop_cayendo_Mejorado_7
+  - first:
+      213: -8943367555178195252
+    second: Drop_cayendo_Mejorado_8
+  - first:
+      213: 8823481358248852553
+    second: Drop_cayendo_Mejorado_9
+  - first:
+      213: -5824469042215164297
+    second: Drop_cayendo_Mejorado_10
+  - first:
+      213: 762341241270761193
+    second: Drop_cayendo_Mejorado_11
+  - first:
+      213: 4877368176594099061
+    second: Drop_cayendo_Mejorado_12
+  - first:
+      213: -6648551600645500677
+    second: Drop_cayendo_Mejorado_13
+  - first:
+      213: -8813016423377155279
+    second: Drop_cayendo_Mejorado_14
+  - first:
+      213: -5918350472847464299
+    second: Drop_cayendo_Mejorado_15
+  - first:
+      213: 7070081758997478208
+    second: Drop_cayendo_Mejorado_16
+  - first:
+      213: 6232988703954844003
+    second: Drop_cayendo_Mejorado_17
+  - first:
+      213: -8741438851400077469
+    second: Drop_cayendo_Mejorado_18
+  - first:
+      213: 5578032879480091146
+    second: Drop_cayendo_Mejorado_19
+  - first:
+      213: -976998095067444407
+    second: Drop_cayendo_Mejorado_20
+  - first:
+      213: -6561601374035181227
+    second: Drop_cayendo_Mejorado_21
+  - first:
+      213: -3867619532371006927
+    second: Drop_cayendo_Mejorado_22
+  - first:
+      213: 2454862899940353743
+    second: Drop_cayendo_Mejorado_23
+  - first:
+      213: -1450907539872956658
+    second: Drop_cayendo_Mejorado_24
+  - first:
+      213: -8614032597890399841
+    second: Drop_cayendo_Mejorado_25
+  - first:
+      213: 61392497816404509
+    second: Drop_cayendo_Mejorado_26
+  - first:
+      213: -7319513399120706608
+    second: Drop_cayendo_Mejorado_27
+  - first:
+      213: 40939716228693164
+    second: Drop_cayendo_Mejorado_28
+  - first:
+      213: -1387761432169925056
+    second: Drop_cayendo_Mejorado_29
+  - first:
+      213: -1201726362931721225
+    second: Drop_cayendo_Mejorado_30
+  - first:
+      213: -1697948846992446759
+    second: Drop_cayendo_Mejorado_31
+  - first:
+      213: -4778922536080511879
+    second: Drop_cayendo_Mejorado_32
+  - first:
+      213: 5038669090594564229
+    second: Drop_cayendo_Mejorado_33
+  - first:
+      213: -5192606941363035704
+    second: Drop_cayendo_Mejorado_34
+  - first:
+      213: 7464799394563885452
+    second: Drop_cayendo_Mejorado_35
+  - first:
+      213: -789811227710546302
+    second: Drop_cayendo_Mejorado_36
+  - first:
+      213: 586523627265705477
+    second: Drop_cayendo_Mejorado_37
+  - first:
+      213: -1263483527056783254
+    second: Drop_cayendo_Mejorado_38
+  - first:
+      213: 3744001835963486891
+    second: Drop_cayendo_Mejorado_39
+  - first:
+      213: 8699394247807938211
+    second: Drop_cayendo_Mejorado_40
+  - first:
+      213: -4320044518738885450
+    second: Drop_cayendo_Mejorado_41
+  - first:
+      213: -2903414907777055886
+    second: Drop_cayendo_Mejorado_42
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3351
+        width: 237
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d62a9164e9d24eb0800000000000000
+      internalID: -4736984283127077161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3739
+        width: 237
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a215e58bac4a6e50800000000000000
+      internalID: 6803334486666056360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_2
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 3353
+        width: 240
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ce8dbb039364160800000000000000
+      internalID: 7009352751521524886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 3739
+        width: 240
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbec1f78d4554f2d0800000000000000
+      internalID: -3245875639945670979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_4
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 3353
+        width: 240
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be3198fc68237f80800000000000000
+      internalID: -8110094055472283978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_5
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 3739
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56bf781c9554de40800000000000000
+      internalID: 5680259158935320156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_6
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 3353
+        width: 240
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f1a198c6593af50800000000000000
+      internalID: 6891516148196187973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_7
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 3739
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3676b25fba2c7fb70800000000000000
+      internalID: 8932822429721126755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_8
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 3353
+        width: 240
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc699d1b796c2e380800000000000000
+      internalID: -8943367555178195252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_9
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 3739
+        width: 240
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c34b8eb8d437a70800000000000000
+      internalID: 8823481358248852553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_10
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 3351
+        width: 242
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7766185f3445b2fa0800000000000000
+      internalID: -5824469042215164297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_11
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 3741
+        width: 242
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6f293e151649a00800000000000000
+      internalID: 762341241270761193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_12
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 3351
+        width: 240
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b9fa4e384efa340800000000000000
+      internalID: 4877368176594099061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_13
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 3737
+        width: 240
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf09ba47b899bb3a0800000000000000
+      internalID: -6648551600645500677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2963
+        width: 237
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bcbec9140e1b580800000000000000
+      internalID: -8813016423377155279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_15
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2963
+        width: 240
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59869a90a9bcddda0800000000000000
+      internalID: -5918350472847464299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_16
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 2963
+        width: 240
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b7302a6e9fd1260800000000000000
+      internalID: 7070081758997478208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_17
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 2961
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3693044d336008650800000000000000
+      internalID: 6232988703954844003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_18
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 2961
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fef74cdab20b680800000000000000
+      internalID: -8741438851400077469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_19
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 2961
+        width: 242
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a023cd6a957296d40800000000000000
+      internalID: 5578032879480091146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_20
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 2960
+        width: 243
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b854da8610172f0800000000000000
+      internalID: -976998095067444407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2571
+        width: 237
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5510beea05280f4a0800000000000000
+      internalID: -6561601374035181227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_22
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2571
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ae9aed684735ac0800000000000000
+      internalID: -3867619532371006927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_23
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 2573
+        width: 240
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6ea331dcc611220800000000000000
+      internalID: 2454862899940353743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_24
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 2573
+        width: 240
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fbfeb97475ddbe0800000000000000
+      internalID: -1450907539872956658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_25
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 2573
+        width: 240
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f918b17cdfec47880800000000000000
+      internalID: -8614032597890399841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_26
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 2573
+        width: 242
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d128838c62c1ad000800000000000000
+      internalID: 61392497816404509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_27
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 2573
+        width: 240
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3c2bc085ddb6a90800000000000000
+      internalID: -7319513399120706608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1795
+        width: 237
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac340b7472719000800000000000000
+      internalID: 40939716228693164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2185
+        width: 237
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0463682845eadbce0800000000000000
+      internalID: -1387761432169925056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_30
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1795
+        width: 240
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb8b3c6d3c925fe0800000000000000
+      internalID: -1201726362931721225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_31
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2185
+        width: 240
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da2b30158caf68e0800000000000000
+      internalID: -1697948846992446759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_32
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1795
+        width: 240
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cefc3f54bddadb0800000000000000
+      internalID: -4778922536080511879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_33
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 2185
+        width: 240
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58821a587d2fce540800000000000000
+      internalID: 5038669090594564229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_34
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1795
+        width: 240
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c124d99f7720f7b0800000000000000
+      internalID: -5192606941363035704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_35
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 2185
+        width: 240
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c890888cf7b489760800000000000000
+      internalID: 7464799394563885452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_36
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1795
+        width: 240
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e92bc7fd60a05f0800000000000000
+      internalID: -789811227710546302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_37
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 2185
+        width: 240
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506cb87a120c32800800000000000000
+      internalID: 586523627265705477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_38
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1795
+        width: 242
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6809362d64377ee0800000000000000
+      internalID: -1263483527056783254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_39
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 2185
+        width: 242
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2930f45dd55f330800000000000000
+      internalID: 3744001835963486891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_40
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1795
+        width: 244
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae2bad1af47ab870800000000000000
+      internalID: 8699394247807938211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_41
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 2185
+        width: 241
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b402b6166e1c04c0800000000000000
+      internalID: -4320044518738885450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_cayendo_Mejorado_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1405
+        width: 237
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273006a368ff4b7d0800000000000000
+      internalID: -2903414907777055886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

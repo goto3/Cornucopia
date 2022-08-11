@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: 0d38a4e9b30236c4384d2aa765f4d505
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7052330915890089825
+    second: Drop_paracaidas_chau_0
+  - first:
+      213: -4730197699873965084
+    second: Drop_paracaidas_chau_1
+  - first:
+      213: 6728343941872293131
+    second: Drop_paracaidas_chau_2
+  - first:
+      213: -2495665171666945951
+    second: Drop_paracaidas_chau_3
+  - first:
+      213: 127015056121549354
+    second: Drop_paracaidas_chau_4
+  - first:
+      213: 3771212633061263048
+    second: Drop_paracaidas_chau_5
+  - first:
+      213: -3707465618822787800
+    second: Drop_paracaidas_chau_6
+  - first:
+      213: -4001255120870695573
+    second: Drop_paracaidas_chau_7
+  - first:
+      213: -1533432718198125803
+    second: Drop_paracaidas_chau_8
+  - first:
+      213: 3251593766775293506
+    second: Drop_paracaidas_chau_9
+  - first:
+      213: -1051152779551912273
+    second: Drop_paracaidas_chau_10
+  - first:
+      213: -7240850641278364186
+    second: Drop_paracaidas_chau_11
+  - first:
+      213: 1670492002585446316
+    second: Drop_paracaidas_chau_12
+  - first:
+      213: -8876053861953423502
+    second: Drop_paracaidas_chau_13
+  - first:
+      213: -4038673642160255358
+    second: Drop_paracaidas_chau_14
+  - first:
+      213: -6712269677542778817
+    second: Drop_paracaidas_chau_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Drop_paracaidas_chau_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1720
+        width: 235
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f42286a99eed160800000000000000
+      internalID: 7052330915890089825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_paracaidas_chau_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1720
+        width: 214
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb74ade046fa5eb0800000000000000
+      internalID: -4730197699873965084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_paracaidas_chau_2
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1720
+        width: 192
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0513f5ba21ef5d50800000000000000
+      internalID: 6728343941872293131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_paracaidas_chau_3
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1720
+        width: 171
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1683a7cbfbd9d5dd0800000000000000
+      internalID: -2495665171666945951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_paracaidas_chau_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1392
+        width: 156
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a225045458f33c100800000000000000
+      internalID: 127015056121549354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_paracaidas_chau_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1392
+        width: 148
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c60516b8e9065430800000000000000
+      internalID: 3771212633061263048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_paracaidas_chau_6
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1392
+        width: 148
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d0815a9af6c8cc0800000000000000
+      internalID: -3707465618822787800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_paracaidas_chau_7
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1392
+        width: 148
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d1ac8caafa878c0800000000000000
+      internalID: -4001255120870695573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_paracaidas_chau_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1064
+        width: 148
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bc6d8311728bae0800000000000000
+      internalID: -1533432718198125803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_paracaidas_chau_9
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1064
+        width: 148
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246048e9d4bff1d20800000000000000
+      internalID: 3251593766775293506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_paracaidas_chau_10
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1064
+        width: 148
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faec422cd1e8961f0800000000000000
+      internalID: -1051152779551912273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_paracaidas_chau_11
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1064
+        width: 148
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e591f694b4538b90800000000000000
+      internalID: -7240850641278364186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_paracaidas_chau_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 736
+        width: 148
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca78c3e20a7ce2710800000000000000
+      internalID: 1670492002585446316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_paracaidas_chau_13
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 736
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27738073a0ce1d480800000000000000
+      internalID: -8876053861953423502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_paracaidas_chau_14
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 736
+        width: 148
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e0e4368bfb3f7c0800000000000000
+      internalID: -4038673642160255358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_paracaidas_chau_15
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 736
+        width: 148
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38df699a4a39d2a0800000000000000
+      internalID: -6712269677542778817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

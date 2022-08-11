@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: a4002344bac464d44b1222679750b74c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5170614674679945383
+    second: Sushi_Jump_Weapon_0
+  - first:
+      213: 7024895219757006547
+    second: Sushi_Jump_Weapon_1
+  - first:
+      213: -7445448483338748916
+    second: Sushi_Jump_Weapon_1
+  - first:
+      213: 2341563789788209291
+    second: Sushi_Jump_Weapon_0
+  - first:
+      213: -1508505499017166899
+    second: Sushi_Jump_Weapon_4
+  - first:
+      213: 3173624542065691772
+    second: Sushi_Jump_Weapon_5
+  - first:
+      213: 6180981127575587138
+    second: Sushi_Jump_Weapon_5
+  - first:
+      213: -8706227102811465536
+    second: Sushi_Jump_Weapon_4
+  - first:
+      213: -6811982026651650662
+    second: Sushi_Jump_Weapon_8
+  - first:
+      213: -8544997450558090481
+    second: Sushi_Jump_Weapon_9
+  - first:
+      213: -97813375322826653
+    second: Sushi_Jump_Weapon_9
+  - first:
+      213: 6550198104810889610
+    second: Sushi_Jump_Weapon_8
+  - first:
+      213: -7081755092963462640
+    second: Sushi_Jump_Weapon_12
+  - first:
+      213: 3697564207289736616
+    second: Sushi_Jump_Weapon_13
+  - first:
+      213: 3373742485223952907
+    second: Sushi_Jump_Weapon_13
+  - first:
+      213: 6534440470107867798
+    second: Sushi_Jump_Weapon_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sushi_Jump_Weapon_3
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 3139
+        width: 780
+        height: 746
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a858bac6a6b1c740800000000000000
+      internalID: 5170614674679945383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_Jump_Weapon_2
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 3148
+        width: 874
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3deb4fd9bf07d7160800000000000000
+      internalID: 7024895219757006547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_Jump_Weapon_1
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 3139
+        width: 792
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c7f155d047ca890800000000000000
+      internalID: -7445448483338748916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_Jump_Weapon_0
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 3139
+        width: 712
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b806e355cd7ee7020800000000000000
+      internalID: 2341563789788209291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_Jump_Weapon_7
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 2257
+        width: 674
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfbb55bd36b01be0800000000000000
+      internalID: -1508505499017166899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_Jump_Weapon_6
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 2266
+        width: 634
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c8948d4bafa0c20800000000000000
+      internalID: 3173624542065691772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_Jump_Weapon_5
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 2253
+        width: 596
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2494988569147c550800000000000000
+      internalID: 6180981127575587138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_Jump_Weapon_4
+      rect:
+        serializedVersion: 2
+        x: 3219
+        y: 2253
+        width: 688
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c85b0bd3944d2780800000000000000
+      internalID: -8706227102811465536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_Jump_Weapon_11
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1373
+        width: 712
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95351d207af671a0800000000000000
+      internalID: -6811982026651650662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_Jump_Weapon_10
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1373
+        width: 714
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03ddd097121a6980800000000000000
+      internalID: -8544997450558090481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_Jump_Weapon_9
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 1373
+        width: 714
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368d99dd04f74aef0800000000000000
+      internalID: -97813375322826653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_Jump_Weapon_8
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 1373
+        width: 714
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81a0bdc87af6ea50800000000000000
+      internalID: 6550198104810889610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_Jump_Weapon_15
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 478
+        width: 712
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0127991834d88bd90800000000000000
+      internalID: -7081755092963462640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_Jump_Weapon_14
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 487
+        width: 714
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad14b55e03605330800000000000000
+      internalID: 3697564207289736616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_Jump_Weapon_13
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 487
+        width: 714
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02da6b5ae0f1de20800000000000000
+      internalID: 3373742485223952907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_Jump_Weapon_12
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 487
+        width: 714
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a47b29cfefeaa50800000000000000
+      internalID: 6534440470107867798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

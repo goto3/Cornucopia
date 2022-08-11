@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: 37fd9402c3e584a49aa1868fb58caf5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 425936616087783074
+    second: Pancho_Falling_2HWeapon_0
+  - first:
+      213: 1149611411384643493
+    second: Pancho_Falling_2HWeapon_1
+  - first:
+      213: -1818698353988326315
+    second: Pancho_Falling_2HWeapon_2
+  - first:
+      213: -8126897471166484919
+    second: Pancho_Falling_2HWeapon_3
+  - first:
+      213: 5681053474229461858
+    second: Pancho_Falling_2HWeapon_4
+  - first:
+      213: -6973346097568550490
+    second: Pancho_Falling_2HWeapon_5
+  - first:
+      213: -821076918957990397
+    second: Pancho_Falling_2HWeapon_6
+  - first:
+      213: -8288704274699550358
+    second: Pancho_Falling_2HWeapon_7
+  - first:
+      213: 8337726211537351366
+    second: Pancho_Falling_2HWeapon_8
+  - first:
+      213: -4333848011755717996
+    second: Pancho_Falling_2HWeapon_9
+  - first:
+      213: -546177518353543686
+    second: Pancho_Falling_2HWeapon_10
+  - first:
+      213: -9012658921998774129
+    second: Pancho_Falling_2HWeapon_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pancho_Falling_2HWeapon_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3201
+        width: 700
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a68eba781b39e500800000000000000
+      internalID: 425936616087783074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Falling_2HWeapon_1
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 3203
+        width: 704
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af215ddc7d34ff00800000000000000
+      internalID: 1149611411384643493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Falling_2HWeapon_2
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 3205
+        width: 706
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c20f0ab7fa2c6e0800000000000000
+      internalID: -1818698353988326315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Falling_2HWeapon_3
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 3205
+        width: 708
+        height: 790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ee911eec5773f80800000000000000
+      internalID: -8126897471166484919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Falling_2HWeapon_4
+      rect:
+        serializedVersion: 2
+        x: 3053
+        y: 3205
+        width: 710
+        height: 790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2632279090827de40800000000000000
+      internalID: 5681053474229461858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Falling_2HWeapon_5
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2387
+        width: 714
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1f19eaba2b93f90800000000000000
+      internalID: -6973346097568550490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Falling_2HWeapon_6
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 2387
+        width: 714
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e9c3874e2fa94f0800000000000000
+      internalID: -821076918957990397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Falling_2HWeapon_7
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 2387
+        width: 714
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61854aa06b98fc80800000000000000
+      internalID: -8288704274699550358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Falling_2HWeapon_8
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 2385
+        width: 710
+        height: 788
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2b52170dd85b370800000000000000
+      internalID: 8337726211537351366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Falling_2HWeapon_9
+      rect:
+        serializedVersion: 2
+        x: 3053
+        y: 2383
+        width: 708
+        height: 790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a74cce1341bd3c0800000000000000
+      internalID: -4333848011755717996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Falling_2HWeapon_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1559
+        width: 706
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd8b3ad0769b68f0800000000000000
+      internalID: -546177518353543686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Falling_2HWeapon_11
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1557
+        width: 704
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f801288267a9ce280800000000000000
+      internalID: -9012658921998774129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

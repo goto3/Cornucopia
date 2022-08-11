@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: 0fce91ddf69338d4aa282c37af135d6e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5720360873828498769
+    second: Fishy_Jump_2HW_0
+  - first:
+      213: 2048140035251462730
+    second: Fishy_Jump_2HW_1
+  - first:
+      213: -3627893187929352295
+    second: Fishy_Jump_2HW_2
+  - first:
+      213: 6756078517853660271
+    second: Fishy_Jump_2HW_3
+  - first:
+      213: 8613378085912355116
+    second: Fishy_Jump_2HW_4
+  - first:
+      213: 211887613017543596
+    second: Fishy_Jump_2HW_5
+  - first:
+      213: 8582935995701541097
+    second: Fishy_Jump_2HW_6
+  - first:
+      213: -7918318617725198246
+    second: Fishy_Jump_2HW_7
+  - first:
+      213: -6556705130923804945
+    second: Fishy_Jump_2HW_8
+  - first:
+      213: 1292961247507251615
+    second: Fishy_Jump_2HW_9
+  - first:
+      213: -5001329380851102620
+    second: Fishy_Jump_2HW_10
+  - first:
+      213: -6104494547680905003
+    second: Fishy_Jump_2HW_11
+  - first:
+      213: -7022090541551164930
+    second: Fishy_Jump_2HW_12
+  - first:
+      213: 9143792357114431042
+    second: Fishy_Jump_2HW_13
+  - first:
+      213: 4413539512043013068
+    second: Fishy_Jump_2HW_14
+  - first:
+      213: 3678836219016262001
+    second: Fishy_Jump_2HW_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fishy_Jump_2HW_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 3219
+        width: 806
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2c860d7123d90b0800000000000000
+      internalID: -5720360873828498769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishy_Jump_2HW_1
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 3219
+        width: 854
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a426b63b2847c6c10800000000000000
+      internalID: 2048140035251462730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishy_Jump_2HW_2
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 3219
+        width: 902
+        height: 688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9975962fd5227adc0800000000000000
+      internalID: -3627893187929352295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishy_Jump_2HW_3
+      rect:
+        serializedVersion: 2
+        x: 3053
+        y: 3219
+        width: 826
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64a053ed9962cd50800000000000000
+      internalID: 6756078517853660271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishy_Jump_2HW_4
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2267
+        width: 748
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21a0f6cbbdd88770800000000000000
+      internalID: 8613378085912355116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishy_Jump_2HW_5
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 2267
+        width: 672
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3573259a6c0f200800000000000000
+      internalID: 211887613017543596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishy_Jump_2HW_6
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 2267
+        width: 714
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e834b150d6bc1770800000000000000
+      internalID: 8582935995701541097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishy_Jump_2HW_7
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 2269
+        width: 760
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50a0249b2b7c1290800000000000000
+      internalID: -7918318617725198246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishy_Jump_2HW_8
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1315
+        width: 804
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe63e4e1c67e105a0800000000000000
+      internalID: -6556705130923804945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishy_Jump_2HW_9
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1315
+        width: 804
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91040a776581f110800000000000000
+      internalID: 1292961247507251615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishy_Jump_2HW_10
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 1315
+        width: 804
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c45a12d65b79ab0800000000000000
+      internalID: -5001329380851102620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishy_Jump_2HW_11
+      rect:
+        serializedVersion: 2
+        x: 3067
+        y: 1315
+        width: 804
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8bb284d8a784ba0800000000000000
+      internalID: -6104494547680905003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishy_Jump_2HW_12
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 363
+        width: 804
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1663a6bd58c8e90800000000000000
+      internalID: -7022090541551164930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishy_Jump_2HW_13
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 363
+        width: 804
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246ccb1f3b645ee70800000000000000
+      internalID: 9143792357114431042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishy_Jump_2HW_14
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 363
+        width: 804
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc389716dca004d30800000000000000
+      internalID: 4413539512043013068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishy_Jump_2HW_15
+      rect:
+        serializedVersion: 2
+        x: 3067
+        y: 363
+        width: 804
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1713e45cc0add0330800000000000000
+      internalID: 3678836219016262001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: a3a297104d874e4448e8f1da7f8120a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -905792332850103715
+    second: Pancho_Jump_2HWeapon_0
+  - first:
+      213: 9140943181762334561
+    second: Pancho_Jump_2HWeapon_1
+  - first:
+      213: -7648289465028816090
+    second: Pancho_Jump_2HWeapon_2
+  - first:
+      213: -8917792493999349323
+    second: Pancho_Jump_2HWeapon_3
+  - first:
+      213: -1670508793153860579
+    second: Pancho_Jump_2HWeapon_4
+  - first:
+      213: -442280288228800053
+    second: Pancho_Jump_2HWeapon_5
+  - first:
+      213: 662946603378807127
+    second: Pancho_Jump_2HWeapon_6
+  - first:
+      213: -7651956926718296138
+    second: Pancho_Jump_2HWeapon_7
+  - first:
+      213: 149588117490646218
+    second: Pancho_Jump_2HWeapon_8
+  - first:
+      213: 2992124618254577756
+    second: Pancho_Jump_2HWeapon_9
+  - first:
+      213: 349672386469364837
+    second: Pancho_Jump_2HWeapon_10
+  - first:
+      213: 8755302718639669225
+    second: Pancho_Jump_2HWeapon_11
+  - first:
+      213: 8424891287278615148
+    second: Pancho_Jump_2HWeapon_12
+  - first:
+      213: 2607161739617742148
+    second: Pancho_Jump_2HWeapon_13
+  - first:
+      213: 4447403910314093155
+    second: Pancho_Jump_2HWeapon_14
+  - first:
+      213: 7211287223326057938
+    second: Pancho_Jump_2HWeapon_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pancho_Jump_2HWeapon_0
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 3095
+        width: 624
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a72302caafd63f0800000000000000
+      internalID: -905792332850103715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Jump_2HWeapon_1
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 3095
+        width: 658
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f09fc94672bde70800000000000000
+      internalID: 9140943181762334561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Jump_2HWeapon_2
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 3095
+        width: 692
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62358910141dbd590800000000000000
+      internalID: -7648289465028816090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Jump_2HWeapon_3
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 3093
+        width: 628
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b12686a9f2ad3480800000000000000
+      internalID: -8917792493999349323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Jump_2HWeapon_4
+      rect:
+        serializedVersion: 2
+        x: 3029
+        y: 3093
+        width: 564
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cc5e57a1921d8e0800000000000000
+      internalID: -1670508793153860579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Jump_2HWeapon_5
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2163
+        width: 502
+        height: 906
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc907f0db64bcd9f0800000000000000
+      internalID: -442280288228800053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Jump_2HWeapon_6
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 2165
+        width: 540
+        height: 884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751127f5c62433900800000000000000
+      internalID: 662946603378807127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Jump_2HWeapon_7
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 2169
+        width: 584
+        height: 858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfbd5a87b9cec590800000000000000
+      internalID: -7651956926718296138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Jump_2HWeapon_8
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 2173
+        width: 624
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc36ada991731200800000000000000
+      internalID: 149588117490646218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Jump_2HWeapon_9
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 2173
+        width: 626
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50f3c2cc79268920800000000000000
+      internalID: 2992124618254577756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Jump_2HWeapon_10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1241
+        width: 624
+        height: 836
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564054fce294ad400800000000000000
+      internalID: 349672386469364837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Jump_2HWeapon_11
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1241
+        width: 624
+        height: 836
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef778d5f65118970800000000000000
+      internalID: 8755302718639669225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Jump_2HWeapon_12
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1241
+        width: 624
+        height: 836
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a76812df93be470800000000000000
+      internalID: 8424891287278615148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Jump_2HWeapon_13
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 1241
+        width: 624
+        height: 836
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44da7e1f9cf7e2420800000000000000
+      internalID: 2607161739617742148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Jump_2HWeapon_14
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 1241
+        width: 626
+        height: 836
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a64f60b4a58bd30800000000000000
+      internalID: 4447403910314093155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pancho_Jump_2HWeapon_15
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 311
+        width: 624
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5a9a7c583a31460800000000000000
+      internalID: 7211287223326057938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

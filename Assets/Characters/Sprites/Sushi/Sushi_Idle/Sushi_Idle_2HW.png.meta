@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: cc6ecf2ba37c61d468faf02d4eccda2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8140934882008436356
+    second: Sushi_idle_2_0
+  - first:
+      213: 8146996894170541641
+    second: Sushi_idle_2_1
+  - first:
+      213: 7600720298588868283
+    second: Sushi_idle_2_2
+  - first:
+      213: 6372409756953257744
+    second: Sushi_idle_2_3
+  - first:
+      213: 1666583844981517965
+    second: Sushi_idle_2_4
+  - first:
+      213: 3804278390058866366
+    second: Sushi_idle_2_5
+  - first:
+      213: 1850262044745033822
+    second: Sushi_idle_2_6
+  - first:
+      213: 4161298677065924124
+    second: Sushi_idle_2_7
+  - first:
+      213: -1238969008052450096
+    second: Sushi_idle_2_8
+  - first:
+      213: -705596041717364738
+    second: Sushi_idle_2_9
+  - first:
+      213: -6074535108205743263
+    second: Sushi_idle_2_10
+  - first:
+      213: -2758803999961850478
+    second: Sushi_idle_2_11
+  - first:
+      213: -397831474034589369
+    second: Sushi_idle_2_12
+  - first:
+      213: -5688811879684872783
+    second: Sushi_idle_2_13
+  - first:
+      213: -3041393320990860448
+    second: Sushi_idle_2_14
+  - first:
+      213: -4400597212952277472
+    second: Sushi_idle_2_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sushi_idle_2_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3205
+        width: 714
+        height: 766
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71fc4a7bd6950f80800000000000000
+      internalID: -8140934882008436356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_idle_2_1
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 3205
+        width: 712
+        height: 774
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94eee37b282ff0170800000000000000
+      internalID: 8146996894170541641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_idle_2_2
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 3205
+        width: 714
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe8d7a57de2b7960800000000000000
+      internalID: 7600720298588868283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_idle_2_3
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 3205
+        width: 712
+        height: 786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017ae6659e85f6850800000000000000
+      internalID: 6372409756953257744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_idle_2_4
+      rect:
+        serializedVersion: 2
+        x: 3053
+        y: 3205
+        width: 714
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e27845d25e02710800000000000000
+      internalID: 1666583844981517965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_idle_2_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2387
+        width: 714
+        height: 758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb657223a038bc430800000000000000
+      internalID: 3804278390058866366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_idle_2_6
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 2387
+        width: 712
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e586a6ec6837da910800000000000000
+      internalID: 1850262044745033822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_idle_2_7
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 2387
+        width: 714
+        height: 752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e31da6917efb930800000000000000
+      internalID: 4161298677065924124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_idle_2_8
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 2387
+        width: 712
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcc053604c4ecee0800000000000000
+      internalID: -1238969008052450096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_idle_2_9
+      rect:
+        serializedVersion: 2
+        x: 3053
+        y: 2387
+        width: 714
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7c38273283536f0800000000000000
+      internalID: -705596041717364738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_idle_2_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1567
+        width: 714
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163f1cbd08ae2bba0800000000000000
+      internalID: -6074535108205743263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_idle_2_11
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1567
+        width: 712
+        height: 778
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dd859f062c6b9d0800000000000000
+      internalID: -2758803999961850478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_idle_2_12
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1567
+        width: 714
+        height: 772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741c2b5d16e9a7af0800000000000000
+      internalID: -397831474034589369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_idle_2_13
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 1567
+        width: 712
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b56c5d6cb74d01b0800000000000000
+      internalID: -5688811879684872783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_idle_2_14
+      rect:
+        serializedVersion: 2
+        x: 3053
+        y: 1567
+        width: 714
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b181873eccac5d0800000000000000
+      internalID: -3041393320990860448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushi_idle_2_15
+      rect:
+        serializedVersion: 2
+        x: 3053
+        y: 749
+        width: 714
+        height: 786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ec7627620fde2c0800000000000000
+      internalID: -4400597212952277472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

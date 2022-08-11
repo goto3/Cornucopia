@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: 930509afb1498ec41869a2db1f3d7c06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1473620046712335582
+    second: Matingo_Hurt_0
+  - first:
+      213: 3008698364856732365
+    second: Matingo_Hurt_1
+  - first:
+      213: 6605076318876108823
+    second: Matingo_Hurt_2
+  - first:
+      213: -2679444814288485419
+    second: Matingo_Hurt_3
+  - first:
+      213: -452624367823886260
+    second: Matingo_Hurt_4
+  - first:
+      213: -4207056344512927325
+    second: Matingo_Hurt_5
+  - first:
+      213: -7259671027335599217
+    second: Matingo_Hurt_6
+  - first:
+      213: 9182074062911532807
+    second: Matingo_Hurt_7
+  - first:
+      213: 3820394916979967311
+    second: Matingo_Hurt_8
+  - first:
+      213: 7582626501956029322
+    second: Matingo_Hurt_9
+  - first:
+      213: 6199208342291309925
+    second: Matingo_Hurt_10
+  - first:
+      213: -5579234276651672556
+    second: Matingo_Hurt_11
+  - first:
+      213: -5602418044726023207
+    second: Matingo_Hurt_12
+  - first:
+      213: 8428945744179282542
+    second: Matingo_Hurt_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Matingo_Hurt_0
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 7050
+        width: 956
+        height: 836
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcee2aff99537410800000000000000
+      internalID: 1473620046712335582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matingo_Hurt_1
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 7050
+        width: 932
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca8599d83b01c920800000000000000
+      internalID: 3008698364856732365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matingo_Hurt_2
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 7110
+        width: 1076
+        height: 1064
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71884f4bae1f9ab50800000000000000
+      internalID: 6605076318876108823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matingo_Hurt_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 5898
+        width: 1080
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d382114323b0dad0800000000000000
+      internalID: -2679444814288485419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matingo_Hurt_4
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 5894
+        width: 1099
+        height: 1064
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48eb2b1984f7b9f0800000000000000
+      internalID: -452624367823886260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matingo_Hurt_5
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 5894
+        width: 1096
+        height: 1064
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9e04b6b888d95c0800000000000000
+      internalID: -4207056344512927325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matingo_Hurt_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 4682
+        width: 1080
+        height: 1064
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b677df9a7704b90800000000000000
+      internalID: -7259671027335599217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matingo_Hurt_7
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 4682
+        width: 1076
+        height: 1064
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f6b2526b74d6f70800000000000000
+      internalID: 9182074062911532807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matingo_Hurt_8
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 4634
+        width: 1032
+        height: 1112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f458c488fe4c40530800000000000000
+      internalID: 3820394916979967311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matingo_Hurt_9
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 3419
+        width: 1032
+        height: 1115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b4d8901a6ea3960800000000000000
+      internalID: 7582626501956029322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matingo_Hurt_10
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 3410
+        width: 972
+        height: 908
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56569ea7423080650800000000000000
+      internalID: 6199208342291309925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matingo_Hurt_11
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 3410
+        width: 892
+        height: 1040
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c5e754cf39292b0800000000000000
+      internalID: -5579234276651672556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matingo_Hurt_12
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2194
+        width: 892
+        height: 1043
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbedd0a8763042b0800000000000000
+      internalID: -5602418044726023207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matingo_Hurt_13
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 2194
+        width: 892
+        height: 1043
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62c8d0fe71a9f470800000000000000
+      internalID: 8428945744179282542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

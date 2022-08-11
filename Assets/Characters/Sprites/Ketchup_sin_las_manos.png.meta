@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: a102d06f63168f24ead8d0cbee820455
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1132032741013550542
+    second: Ketchup_sin_las_manos_0
+  - first:
+      213: 1927508493550674161
+    second: Ketchup_sin_las_manos_1
+  - first:
+      213: -1525181202682064678
+    second: Ketchup_sin_las_manos_2
+  - first:
+      213: -3558589960866688633
+    second: Ketchup_sin_las_manos_3
+  - first:
+      213: -3514268441940089934
+    second: Ketchup_sin_las_manos_4
+  - first:
+      213: 3521916050708242253
+    second: Ketchup_sin_las_manos_5
+  - first:
+      213: 830854272840105181
+    second: Ketchup_sin_las_manos_6
+  - first:
+      213: -6284807648523874589
+    second: Ketchup_sin_las_manos_7
+  - first:
+      213: -4210432924485732654
+    second: Ketchup_sin_las_manos_8
+  - first:
+      213: -5820502012516067296
+    second: Ketchup_sin_las_manos_9
+  - first:
+      213: 6883713933259137046
+    second: Ketchup_sin_las_manos_10
+  - first:
+      213: 8295763772113788130
+    second: Ketchup_sin_las_manos_11
+  - first:
+      213: -6230120596036711711
+    second: Ketchup_sin_las_manos_12
+  - first:
+      213: -3772839641532958449
+    second: Ketchup_sin_las_manos_13
+  - first:
+      213: 5022681271679612633
+    second: Ketchup_sin_las_manos_14
+  - first:
+      213: -1335332237051445832
+    second: Ketchup_sin_las_manos_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ketchup_sin_las_manos_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 869
+        width: 102
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5793ab7c9c5bf00800000000000000
+      internalID: 1132032741013550542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ketchup_sin_las_manos_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 873
+        width: 101
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0e2a333c2efba10800000000000000
+      internalID: 1927508493550674161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ketchup_sin_las_manos_2
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 876
+        width: 102
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad05804e6c775dae0800000000000000
+      internalID: -1525181202682064678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ketchup_sin_las_manos_3
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 879
+        width: 102
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7811549e8495d9ec0800000000000000
+      internalID: -3558589960866688633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ketchup_sin_las_manos_4
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 882
+        width: 102
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3abc0b87fca3fc0800000000000000
+      internalID: -3514268441940089934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ketchup_sin_las_manos_5
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 884
+        width: 103
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f163bfcfb50e030800000000000000
+      internalID: 3521916050708242253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ketchup_sin_las_manos_6
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 886
+        width: 104
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcffb02f89c78b00800000000000000
+      internalID: 830854272840105181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ketchup_sin_las_manos_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 705
+        width: 104
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee8314fdb0e7c8a0800000000000000
+      internalID: -6284807648523874589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ketchup_sin_las_manos_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 703
+        width: 105
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d63b6120998195c0800000000000000
+      internalID: -4210432924485732654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ketchup_sin_las_manos_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 702
+        width: 104
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0289889024c693fa0800000000000000
+      internalID: -5820502012516067296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ketchup_sin_las_manos_10
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 702
+        width: 104
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610615fc95dd78f50800000000000000
+      internalID: 6883713933259137046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ketchup_sin_las_manos_11
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 702
+        width: 103
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec9569a239702370800000000000000
+      internalID: 8295763772113788130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ketchup_sin_las_manos_12
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 700
+        width: 102
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea0365935a2a89a0800000000000000
+      internalID: -6230120596036711711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ketchup_sin_las_manos_13
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 699
+        width: 102
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f097aebd55e24abc0800000000000000
+      internalID: -3772839641532958449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ketchup_sin_las_manos_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 513
+        width: 102
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6787a510624b540800000000000000
+      internalID: 5022681271679612633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ketchup_sin_las_manos_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 508
+        width: 102
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdbb61c762f77de0800000000000000
+      internalID: -1335332237051445832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

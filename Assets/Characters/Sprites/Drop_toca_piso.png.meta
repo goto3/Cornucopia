@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: d6610993323da83428662749618debc5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -999869002077883296
+    second: Drop_toca_piso_0
+  - first:
+      213: 7036969932622788681
+    second: Drop_toca_piso_1
+  - first:
+      213: -4352525952228004131
+    second: Drop_toca_piso_2
+  - first:
+      213: -565456529000589586
+    second: Drop_toca_piso_3
+  - first:
+      213: -578800368722709943
+    second: Drop_toca_piso_4
+  - first:
+      213: 7442884793825680582
+    second: Drop_toca_piso_5
+  - first:
+      213: 5858487678852219148
+    second: Drop_toca_piso_6
+  - first:
+      213: 6350534739324251148
+    second: Drop_toca_piso_7
+  - first:
+      213: 4254005612596556669
+    second: Drop_toca_piso_8
+  - first:
+      213: 5330078577916589770
+    second: Drop_toca_piso_9
+  - first:
+      213: 6671593182831997637
+    second: Drop_toca_piso_10
+  - first:
+      213: -7947279901605936651
+    second: Drop_toca_piso_11
+  - first:
+      213: 4650851423432836214
+    second: Drop_toca_piso_12
+  - first:
+      213: -7010088326844547833
+    second: Drop_toca_piso_13
+  - first:
+      213: -2382320403618964689
+    second: Drop_toca_piso_14
+  - first:
+      213: -5537559842800881005
+    second: Drop_toca_piso_15
+  - first:
+      213: -6434052855942754038
+    second: Drop_toca_piso_16
+  - first:
+      213: 3662341015971749884
+    second: Drop_toca_piso_17
+  - first:
+      213: -3107813483284582246
+    second: Drop_toca_piso_18
+  - first:
+      213: 9123766983816864843
+    second: Drop_toca_piso_19
+  - first:
+      213: 4585772871885212091
+    second: Drop_toca_piso_20
+  - first:
+      213: 8951619608899384335
+    second: Drop_toca_piso_21
+  - first:
+      213: -4395209341614248135
+    second: Drop_toca_piso_22
+  - first:
+      213: 133331002376690877
+    second: Drop_toca_piso_23
+  - first:
+      213: 4296934795214719219
+    second: Drop_toca_piso_24
+  - first:
+      213: -4040197798763595988
+    second: Drop_toca_piso_25
+  - first:
+      213: -5493674037933689862
+    second: Drop_toca_piso_26
+  - first:
+      213: -2720178660482706145
+    second: Drop_toca_piso_27
+  - first:
+      213: -5504028890689424835
+    second: Drop_toca_piso_28
+  - first:
+      213: 1768076486627947814
+    second: Drop_toca_piso_29
+  - first:
+      213: -3766983946759173349
+    second: Drop_toca_piso_30
+  - first:
+      213: -221063254066630941
+    second: Drop_toca_piso_31
+  - first:
+      213: -761404492352812995
+    second: Drop_toca_piso_32
+  - first:
+      213: 6826115061490943588
+    second: Drop_toca_piso_33
+  - first:
+      213: -7317682932564224570
+    second: Drop_toca_piso_34
+  - first:
+      213: -3014321292579330445
+    second: Drop_toca_piso_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Drop_toca_piso_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 860
+        width: 148
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064393da070cf12f0800000000000000
+      internalID: -999869002077883296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 860
+        width: 148
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948f519ced658a160800000000000000
+      internalID: 7036969932622788681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 860
+        width: 148
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddee7c505b8b893c0800000000000000
+      internalID: -4352525952228004131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 860
+        width: 148
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee69ef468481728f0800000000000000
+      internalID: -565456529000589586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_4
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 860
+        width: 159
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942fa6a9120b7f7f0800000000000000
+      internalID: -578800368722709943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_5
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 860
+        width: 159
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccd22039407a4760800000000000000
+      internalID: 7442884793825680582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 695
+        width: 167
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c014dfa11878d4150800000000000000
+      internalID: 5858487678852219148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 695
+        width: 167
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c2337e2b1a12850800000000000000
+      internalID: 6350534739324251148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_8
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 695
+        width: 148
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73f553e093490b30800000000000000
+      internalID: 4254005612596556669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 695
+        width: 148
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac633a50a3e38f940800000000000000
+      internalID: 5330078577916589770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_10
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 695
+        width: 125
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c27e94f6a2469c50800000000000000
+      internalID: 6671593182831997637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_11
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 695
+        width: 125
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f14d26390795b190800000000000000
+      internalID: -7947279901605936651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 530
+        width: 148
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67485d47ab42b8040800000000000000
+      internalID: 4650851423432836214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 530
+        width: 148
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d715acec927be90800000000000000
+      internalID: -7010088326844547833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_14
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 530
+        width: 148
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b5029073c40fed0800000000000000
+      internalID: -2382320403618964689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 530
+        width: 148
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392b26789a2a623b0800000000000000
+      internalID: -5537559842800881005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_16
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 530
+        width: 148
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01d17f3407a5b6a0800000000000000
+      internalID: -6434052855942754038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_17
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 530
+        width: 148
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffd65700cf33d230800000000000000
+      internalID: 3662341015971749884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 365
+        width: 148
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9037a45a14ded4d0800000000000000
+      internalID: -3107813483284582246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_19
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 365
+        width: 148
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4467d36bb12e9e70800000000000000
+      internalID: 9123766983816864843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_20
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 365
+        width: 148
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb947596120f3af30800000000000000
+      internalID: 4585772871885212091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 365
+        width: 148
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f047ed84b9a8a3c70800000000000000
+      internalID: 8951619608899384335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_22
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 365
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93faa9ff3641103c0800000000000000
+      internalID: -4395209341614248135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_23
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 365
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc953a17dfa9d100800000000000000
+      internalID: 133331002376690877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 200
+        width: 154
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f80acb1e67c1ab30800000000000000
+      internalID: 4296934795214719219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_25
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 200
+        width: 154
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27716602855ee7c0800000000000000
+      internalID: -4040197798763595988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_26
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 200
+        width: 145
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af33d29b19c82c3b0800000000000000
+      internalID: -5493674037933689862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_27
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 200
+        width: 145
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f159450abebff3ad0800000000000000
+      internalID: -2720178660482706145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_28
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 200
+        width: 145
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3238f0b2e2cd93b0800000000000000
+      internalID: -5504028890689424835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_29
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 199
+        width: 156
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625fd296238798810800000000000000
+      internalID: 1768076486627947814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 35
+        width: 162
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b02da0f0cf8bbc0800000000000000
+      internalID: -3766983946759173349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_31
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 34
+        width: 164
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee67744420aeecf0800000000000000
+      internalID: -221063254066630941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_32
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 34
+        width: 164
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d388ce6f5a2fe65f0800000000000000
+      internalID: -761404492352812995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_33
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 34
+        width: 164
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4668c1c6b7b3bbe50800000000000000
+      internalID: 6826115061490943588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_34
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 34
+        width: 164
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c51291c42e527a90800000000000000
+      internalID: -7317682932564224570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drop_toca_piso_35
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 34
+        width: 164
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376a9e441cafa26d0800000000000000
+      internalID: -3014321292579330445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
